@@ -1,7 +1,11 @@
 # METAIA
-hackUST 2022 - Web 3.0 prototype
+HackUST 2022 - Web 3.0 Engagement prototype
 
-# Prototype Testing Requirement
+# Prototype Demo
+https://velvety-pudding-0264f2.netlify.app/
+![](demo.gif)
+
+# Prototype Testing Requirement (For Developers)
 - Local / deployed web server activated
 - ONLY the sneaker NFT owners can view their NFT status after connecting their MetaMask wallets to the application
 
